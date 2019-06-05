@@ -1,4 +1,4 @@
-# ciencia-de-datos4
+# Ciencia de datos: 4
 
 Clasificaciones de emociones en imágenes, implementación de Adaboost multiclase.
 
